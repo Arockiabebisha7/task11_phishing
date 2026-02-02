@@ -1,0 +1,12 @@
+Subject: Urgent – Account Verification Required
+
+Dear User,
+
+We detected unusual activity in your account.
+Please verify your account immediately to avoid suspension.
+
+Click the link below to verify:
+http://loginpage.html
+
+Regards,
+Support Team
